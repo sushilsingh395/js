@@ -1,0 +1,12 @@
+{
+  "name": "work",
+  "version": "1.0.0",
+  "description": "this is my first work",
+  "main": "index.js",
+  "scripts": {
+    "myApp": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sushil singh",
+  "license": "ISC"
+}
